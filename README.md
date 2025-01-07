@@ -2,8 +2,8 @@
 
 A blazing fast multi-threaded tool to test Mullvad VPN servers and find the optimal ones for your connection.
 
-## Description
-Repository description: `🚀 Blazingly fast multi-threaded Mullvad VPN server ping tester with beautiful CLI and HTML output`
+## Example
+![Image](https://i.ibb.co/B27bZrs/0-C0-B09-FB-9-C45-4-DE1-9-E1-E-2-E05073-B72-BC.png)
 
 ## Features
 
