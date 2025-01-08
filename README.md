@@ -23,7 +23,7 @@ A blazing fast multi-threaded tool to test Mullvad VPN servers and find the opti
 ```bash
 git clone https://github.com/slpkbt/mullvad-ping-tester
 cd mullvad-ping-tester
-npm install
+npm install axios ping cli-table3 chalk@4.1.2 p-limit
 ```
 
 ## Usage
