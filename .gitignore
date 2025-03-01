@@ -128,5 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-src/ping_results.html
-src/ping_results.json
+
+# Project specific
+ping_results*.json
+ping_results*.html
+ping_results*.csv
+.cache/
